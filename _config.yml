@@ -1,0 +1,51 @@
+# Site settings
+name: Christophe Silva
+description: "Passionate about software and making things work together. Photography entusiast. Biker."
+url: "https://0chris.github.io/christophe-silva"
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username:  0chris
+codepen_username: 
+facebook_username: 
+vk_username: 
+twitter_username: 0chris
+google_plus_username: 
+linkedin_username: christophesilva
+vine_username:  
+instagram_username:  chris.lenses
+flickr_username: 
+steam_username: 
+soundcloud_username:  
+stack_of_username: 
+reddit_username: 
+medium_username:  
+tumblr_username: 
+weibo_username: 
+lastfm_username: 
+blog_url: 
+email: 
+public_key_url: 
+
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.jpg""
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "https://avatars.githubusercontent.com/u/2622054"
+
+
+front_img: yes
+front_img_path: "imgs/bkgrnds/christophesilva-serradaestrela.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon_io/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
